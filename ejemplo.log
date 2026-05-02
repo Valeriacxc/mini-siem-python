@@ -1,0 +1,9 @@
+2026-03-28 10:15:22 INFO User login successful from 192.168.1.10
+2026-03-28 10:17:01 WARNING Failed login attempt from 192.168.1.15
+2026-03-28 10:17:45 WARNING Failed login attempt from 192.168.1.15
+2026-03-28 10:18:10 ERROR Access denied for user admin from 10.0.0.5
+2026-03-28 10:19:33 INFO SSH connection established from 172.16.0.8
+2026-03-28 10:20:11 ALERT RDP connection detected from 203.0.113.50
+2026-03-28 10:22:44 WARNING Admin configuration changed from 192.168.1.200
+2026-03-28 23:45:10 WARNING Failed login attempt from 198.51.100.77
+2026-03-28 23:50:15 ERROR Access denied for user root from 198.51.100.77
